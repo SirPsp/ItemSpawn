@@ -1,0 +1,4 @@
+main-class = net.playsocket.itemspawn.ItemSpawn
+name = ItemSpawn
+author = SirPsp
+version = 1.0
